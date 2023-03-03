@@ -30,7 +30,7 @@ fungsi quicksort adalah fungsi untuk membandingkan besar data.
 
 Mergesort adalah algoritma sortir yang caranya adalah memecah data menjadi bagian - bagian dan dibandingkan besarannya. berbeda dengan quicksort, mergesort lebih sederhana.
 
-### Visualisasi Quicksort
+### Visualisasi Mergesort
 
 ![Diagram Tanpa Judul drawio (9)](https://user-images.githubusercontent.com/121864328/222635243-53fc858a-49b4-4ade-bb7d-85837e51f175.png)
 
